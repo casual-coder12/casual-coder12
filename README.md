@@ -19,4 +19,4 @@ I am a researcher bridging the gap between computational physics and modern AI s
 ---
 
 ### 📫 Contact & Connect
-- [LinkedIn]([https://www.linkedin.com/in/vladan-simic-rs/])
+- [LinkedIn](https://www.linkedin.com/in/vladan-simic-rs/)
