@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Vladan Simić 👋
 
-<!--
-**casual-coder12/casual-coder12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PhD Student | ML/DL in STEM | Software Developer
 
-Here are some ideas to get you started:
+I am a researcher bridging the gap between computational physics and modern AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 **PhD Research:** 4+ years of scientific experience in **Monte Carlo simulations** and statistical modeling.
+- 💻 **Self-Taught Dev:** Spent the last 4 years mastering **Machine Learning** and **Software Development** through rigorous study and online specializations.
+- 🚀 **Current Focus:** Building and deploying independent **DS/ML/DL projects** and full-stack applications.
+- 💼 **Open to Work:** Actively seeking professional opportunities and collaborations in Tech/Data Science.
+
+---
+
+### 🛠 Tech Stack
+- **AI/ML:** Python, PyTorch, Scikit-learn, NumPy
+- **Software:** Node.js, Flask, Git
+- **Science:** Monte Carlo Methods, Advanced Statistics, Physics Modeling
+
+---
+
+### 📫 Contact & Connect
+- [LinkedIn]([https://www.linkedin.com/in/vladan-simic-rs/])
