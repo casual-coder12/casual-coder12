@@ -1,6 +1,6 @@
 # Hi there, I'm Vladan Simić 👋
 
-### Master Physicist | ML/DL in STEM | Software Developer
+### MSc in Physics | ML/DL in STEM | Software Developer
 
 I am a researcher bridging the gap between computational physics and modern AI solutions.
 
