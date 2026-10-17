@@ -12,8 +12,8 @@ I am a researcher bridging the gap between computational physics and modern AI s
 ---
 
 ### 🛠 Tech Stack
-- **AI/ML:** Python, PyTorch, Scikit-learn, NumPy
-- **Software:** Node.js, Flask, Git
+- **AI/ML:** Python, Scikit-learn, TensorFlow, PyTorch
+- **Software:** Node.js, Flask, SQL, Matlab, Mathematica
 - **Science:** Monte Carlo Methods, Advanced Statistics, Physics Modeling
 
 ---
